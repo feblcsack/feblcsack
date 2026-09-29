@@ -104,11 +104,8 @@ more coming soon! find me on [github](https://github.com/feblcsack?tab=repositor
 
 </div>
 
-## 🐱 say hi to lancheep
 
 <div align="center">
-
-<img src="assets/lancip.jpeg" alt="lancheep" width="200" />
 
 <br><br>
 
