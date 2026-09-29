@@ -82,11 +82,6 @@ more coming soon! find me on [github](https://github.com/feblcsack?tab=repositor
 
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=5ca7ec" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=5ca7ec" alt="JavaScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=5ca7ec" alt="Next.js" /> <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=5ca7ec" alt="Supabase" /> <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=5ca7ec" alt="Firebase" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=5ca7ec" alt="Vercel" />
 
-## 🏆 trophy case
-
-⇢ finalist, Intel AI Global Impact Festival (Chemsafe_AI)<br>
-⇢ member of [@GarudaHacks](https://github.com/GarudaHacks)
-
 ### holopin badges
 
 <a href="https://holopin.io/@feblcsack">
@@ -104,24 +99,3 @@ more coming soon! find me on [github](https://github.com/feblcsack?tab=repositor
 
 </div>
 
-## 🐱 say hi to lancheep
-
-<div align="center">
-
-<img src="assets/lancip.jpeg" alt="lancheep" width="200" />
-
-<br><br>
-
-<img src="assets/bestviewedcomp.gif" alt="best viewed on computer" />
-<img src="assets/int_explorer.gif" alt="internet explorer" />
-<img src="assets/win95.gif" alt="windows 95" />
-<img src="assets/jquery.gif" alt="jquery" />
-<img src="assets/noweb32.gif" alt="no web 3.2" />
-<img src="assets/emacs.gif" alt="emacs" />
-<img src="assets/html.gif" alt="made with html" />
-<img src="assets/notepad-logo3.gif" alt="notepad" />
-<img src="assets/madewithnotepad2.gif" alt="made with notepad" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5ca7ec,100:000000&height=80&section=footer&text=thx%20for%20visiting%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%" alt="footer" />
-
-</div>
